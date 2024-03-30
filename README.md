@@ -20,13 +20,7 @@ Advanced Gradle MCP powered by Kotlin DSL.
 ./gradlew --stop
 ```
 
-## More info
-
-Additional tutorials and tips can be found in the [wiki](https://github.com/Legacy-Fabric/fabric-example-mod/wiki).
-
-For more detailed setup instructions please see the [fabric wiki](https://fabricmc.net/wiki/tutorial:setup).
-
-If you are new to fabric or Minecraft modding in general then [this wiki page](https://fabricmc.net/wiki/tutorial:primer) may help you.
+Works in Linux and Windows. For macOS you have to provide the natives yourself.
 
 ## License
 
